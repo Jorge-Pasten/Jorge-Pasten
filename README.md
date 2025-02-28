@@ -1,16 +1,23 @@
-## Hi there 👋
+![Perfil](https://github.com/user-attachments/assets/5ddc14c9-fb40-4daf-a360-5c294fd80613)
 
-<!--
-**Jorge-Pasten/Jorge-Pasten** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Hola, Soy Jorge 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+QA Engineer recién graduado del bootcamp de Tripleten 🎓.
+
+- 💻 Apasionado por la automatización de pruebas y por garantizar la calidad en cada proyecto ✨.
+
+- 📱 He trabajado en proyectos de pruebas automatizadas para apps móviles y web 🌐.
+ 
+- 🛠️ Mi enfoque está en innovar constantemente y mejorar la calidad de las aplicaciones con soluciones detalladas y eficientes.
+
+- 🚀 Siempre en busca de nuevas tecnologías, aprendiendo y experimentando para estar a la vanguardia.
+
+- 🧑‍💻 En mi GitHub encontrarás mis proyectos y contribuciones.
+  
+
+¡Conéctate conmigo! 🤝
+
+
+
+
