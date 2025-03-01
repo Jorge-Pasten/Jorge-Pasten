@@ -1,5 +1,4 @@
-![Perfil1](https://github.com/user-attachments/assets/826598e8-a1ec-428f-82ee-6f5534f3d365)
-
+![Baner LinkedIn](https://github.com/user-attachments/assets/3e4c9555-d3cf-4230-9b4f-6c07e89dc423)
 
 
 Hola, Soy Jorge 👋
