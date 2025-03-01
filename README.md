@@ -1,4 +1,5 @@
-![Perfil](https://github.com/user-attachments/assets/5ddc14c9-fb40-4daf-a360-5c294fd80613)
+![Perfil1](https://github.com/user-attachments/assets/826598e8-a1ec-428f-82ee-6f5534f3d365)
+
 
 
 Hola, Soy Jorge 👋
